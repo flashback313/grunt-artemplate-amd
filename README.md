@@ -11,8 +11,10 @@ npm install grunt-artemplate-amd --save-dev
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
+//load task
 grunt.loadNpmTasks('grunt-artemplate-amd');
 
+//init task
 grunt.initConfig({
 	compileTemplate: {
 		target: {
