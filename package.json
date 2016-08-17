@@ -1,0 +1,28 @@
+{
+  "name": "grunt-artemplate-amd",
+  "version": "1.0.0",
+  "description": "arttemplate compiler for grunt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flashback313/grunt-artemplate-amd.git"
+  },
+  "keywords": [
+    "amd",
+    "grunt",
+    "arttemplate"
+  ],
+  "author": "flashback313",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flashback313/grunt-artemplate-amd/issues"
+  },
+  "homepage": "https://github.com/flashback313/grunt-artemplate-amd#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  }
+}
